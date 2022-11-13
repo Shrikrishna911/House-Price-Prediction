@@ -34,10 +34,10 @@ The accuracy of gradient boosting regressor algorithm : 0.9094721522827934
 while accuracy for Linear Regression model : 0.7320342760357638
 
 
-***Author***
+***Author***:
 Shri Krishna
 
-Email: skriss911@gmail.com
+# Email: skriss911@gmail.com
 
 
 ***Tutorial Video***:
