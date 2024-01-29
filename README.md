@@ -1,7 +1,7 @@
 # House-Price-Prediction
 # **About Project**
 
-This project is about analysing the house prices of in King County, Washington State, USA. This different features of house like number of bedrooms, bathrooms, latitude and longitude can affect the price of house. Regression models work well with this kind of dataset. Thus we use Gradient boosting Regressor model for the purpose of prediction of House prices.
+This project is about analysing the house prices in King County, Washington State, USA. This different features of house like number of bedrooms, bathrooms, latitude and longitude can affect the price of house. Regression models work well with this kind of dataset. Thus we use Gradient boosting Regressor model for the purpose of prediction of House prices.
 
 
 # ***What is the software requirement?***
